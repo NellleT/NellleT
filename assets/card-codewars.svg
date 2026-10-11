@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Codewars solutions: 166 katas solved in JavaScript">
+  <title>Codewars solutions</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2C1811"/>
+      <stop offset="1" stop-color="#1D0F0A"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F2A541" stop-opacity=".55"/>
+      <stop offset=".5" stop-color="#8C3A1E" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#E8552D" stop-opacity=".55"/>
+    </linearGradient>
+    <style>
+    .label { font: 600 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #C98B5E; letter-spacing: 4px; }
+    .title { font: 700 40px Georgia, 'Palatino Linotype', 'Book Antiqua', serif; fill: #F7A541; }
+    .desc  { font: 400 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #EEDCCB; }
+    .big   { font: 700 64px Georgia, 'Palatino Linotype', 'Book Antiqua', serif; fill: #F7C35C; }
+    .kyu   { font: 600 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #EEDCCB; }
+    .num   { font: 700 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #F7B65C; animation: fade .6s ease-out both; }
+    .tag   { font: 600 12.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #F7B65C; letter-spacing: .4px; }
+    .bar   { transform-box: fill-box; transform-origin: left center; animation: grow 1.1s cubic-bezier(.2,.8,.2,1) both; }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+  </defs>
+  <rect x=".75" y=".75" width="1198.5" height="328.5" rx="18" fill="url(#bg)" stroke="url(#edge)" stroke-width="1.5"/>
+
+  <text x="48" y="70" class="label">PRACTICE</text>
+  <text x="48" y="118" class="title">Codewars solutions</text>
+  <text x="48" y="156" class="desc">Katas I've solved in JavaScript, from the</text>
+  <text x="48" y="182" class="desc">warm-up 8 kyu ones up to 4 kyu.</text>
+  <text x="48" y="262" class="big">166</text>
+  <text x="176" y="250" class="desc">katas in</text>
+  <text x="176" y="272" class="desc">the repo</text>
+
+  <line x1="600" y1="60" x2="600" y2="270" stroke="#F2A541" stroke-opacity=".18"/>
+    <text x="672" y="87" text-anchor="end" class="kyu">8 kyu</text><rect x="690" y="72" width="400" height="20" rx="10" fill="#F2A541" fill-opacity=".07"/><rect class="bar" style="animation-delay:0.15s" x="690" y="72" width="400.0" height="20" rx="10" fill="#F4CD6A"/><text class="num" style="animation-delay:0.65s" x="1102.0" y="87.5">70</text>
+    <text x="672" y="131" text-anchor="end" class="kyu">7 kyu</text><rect x="690" y="116" width="400" height="20" rx="10" fill="#F2A541" fill-opacity=".07"/><rect class="bar" style="animation-delay:0.27s" x="690" y="116" width="342.9" height="20" rx="10" fill="#F2A541"/><text class="num" style="animation-delay:0.77s" x="1044.9" y="131.5">60</text>
+    <text x="672" y="175" text-anchor="end" class="kyu">6 kyu</text><rect x="690" y="160" width="400" height="20" rx="10" fill="#F2A541" fill-opacity=".07"/><rect class="bar" style="animation-delay:0.39s" x="690" y="160" width="171.4" height="20" rx="10" fill="#EE8434"/><text class="num" style="animation-delay:0.89s" x="873.4" y="175.5">30</text>
+    <text x="672" y="219" text-anchor="end" class="kyu">5 kyu</text><rect x="690" y="204" width="400" height="20" rx="10" fill="#F2A541" fill-opacity=".07"/><rect class="bar" style="animation-delay:0.51s" x="690" y="204" width="28.6" height="20" rx="10" fill="#E2602A"/><text class="num" style="animation-delay:1.01s" x="730.6" y="219.5">5</text>
+    <text x="672" y="263" text-anchor="end" class="kyu">4 kyu</text><rect x="690" y="248" width="400" height="20" rx="10" fill="#F2A541" fill-opacity=".07"/><rect class="bar" style="animation-delay:0.63s" x="690" y="248" width="10.0" height="20" rx="10" fill="#C8402A"/><text class="num" style="animation-delay:1.13s" x="712.0" y="263.5">1</text>
+</svg>

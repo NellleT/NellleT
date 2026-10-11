@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="44" viewBox="0 0 148 44" role="img" aria-label="Live site">
+  <rect x=".75" y=".75" width="146.5" height="42.5" rx="21.25" fill="#EE8434"/>
+  <text x="24" y="27.5" style="font: 600 16px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #2A1209">Live site</text>
+  <path d="M107.8,27.0 L117.8,17.0 M109.8,17.0 L117.8,17.0 L117.8,25.0" fill="none" stroke="#2A1209" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

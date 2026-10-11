@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm Vlad, I'm 18 and I live in Canton Zurich. Right now I'm in the first year of my apprenticeship as an IT Application Developer at Swisscom.
+I'm Vlad, I'm 18 and I live in Zurich. Right now I'm in the first year of my apprenticeship as an IT Application Developer at Swisscom.
 
 I mostly build things for the web with HTML, CSS and JavaScript, and I also write Python. To keep practicing, I solve Codewars katas in JavaScript.
 
@@ -26,31 +26,25 @@ I mostly build things for the web with HTML, CSS and JavaScript, and I also writ
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-
-**[Avion](https://github.com/NellleT/Avion)**
-
-A landing page for an online store, built with HTML and CSS.
-
-[Open the site](https://nelllet.github.io/Avion/)
-
-</td>
-    <td width="33%" valign="top">
-
-**[Brex](https://github.com/NellleT/Brex)**
-
-My version of the Brex homepage, built with HTML and CSS.
-
-[Open the site](https://nelllet.github.io/Brex/)
-
-</td>
-    <td width="33%" valign="top">
-
-**[Codewars solutions](https://github.com/NellleT/solutions)**
-
-The katas I've solved in JavaScript, from 8 kyu up to 4 kyu.
-
-</td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://nelllet.github.io/Avion/"><img src="assets/card-avion.svg" alt="Avion, a landing page for a furniture store" width="100%"></a>
+      <br>
+      <a href="https://nelllet.github.io/Avion/"><img src="assets/btn-live.svg" alt="Live site" height="36"></a>
+      <a href="https://github.com/NellleT/Avion"><img src="assets/btn-code.svg" alt="Source code" height="36"></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://nelllet.github.io/Brex/"><img src="assets/card-brex.svg" alt="Brex, my take on the Brex homepage" width="100%"></a>
+      <br>
+      <a href="https://nelllet.github.io/Brex/"><img src="assets/btn-live.svg" alt="Live site" height="36"></a>
+      <a href="https://github.com/NellleT/Brex"><img src="assets/btn-code.svg" alt="Source code" height="36"></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/NellleT/solutions"><img src="assets/card-codewars.svg" alt="Codewars solutions: 166 katas solved in JavaScript, from 8 kyu to 4 kyu" width="100%"></a>
+      <br>
+      <a href="https://github.com/NellleT/solutions"><img src="assets/btn-code.svg" alt="Source code" height="36"></a>
+    </td>
   </tr>
 </table>
 
