@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="48" viewBox="0 0 1200 48" role="img" aria-label="autumn leaves divider">
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#D9622B" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#D9622B"/>
+      <stop offset="1" stop-color="#D9622B" stop-opacity="0"/>
+    </linearGradient>
+    <symbol id="maple" overflow="visible">
+      <path d="M0,-22 L4,-14 L8,-16 L6,-7 L15,-11 L13,-6 L21,-5 L16,1 L18,4 L10,4 L13,10 L6,8 L2,12 L1,12 L1,22 L-1,22 L-1,12 L-2,12 L-6,8 L-13,10 L-10,4 L-18,4 L-16,1 L-21,-5 L-13,-6 L-15,-11 L-6,-7 L-8,-16 L-4,-14 Z"/>
+      <path d="M0,14 L0,-17 M0,4 L16,-4 M0,4 L-16,-4 M0,9 L10,6 M0,9 L-10,6" fill="none" stroke="#000" stroke-opacity=".22" stroke-width="1.2" stroke-linecap="round"/>
+    </symbol>
+    <symbol id="oval" overflow="visible">
+      <path d="M0,-18 C11,-9 11,8 0,18 C-11,8 -11,-9 0,-18 Z"/>
+      <path d="M0,20 L0,-15 M0,0 L6,-6 M0,0 L-6,-6 M0,8 L6,2 M0,8 L-6,2" fill="none" stroke="#000" stroke-opacity=".22" stroke-width="1.2" stroke-linecap="round"/>
+    </symbol>
+    <style>
+    .l { animation: rock 3s ease-in-out infinite alternate; }
+    .l2 { animation-delay: -1s; } .l3 { animation-delay: -2s; }
+    @keyframes rock { from { transform: rotate(-12deg); } to { transform: rotate(12deg); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+  </defs>
+  <rect x="80" y="23" width="440" height="2" rx="1" fill="url(#line)"/>
+  <rect x="680" y="23" width="440" height="2" rx="1" fill="url(#line)"/>
+  <g transform="translate(560,26)"><g class="l l2"><use href="#oval" fill="#E3A33C" transform="rotate(-50) scale(.7)"/></g></g>
+  <g transform="translate(600,24)"><g class="l"><use href="#maple" fill="#D9622B" transform="scale(.85)"/></g></g>
+  <g transform="translate(640,26)"><g class="l l3"><use href="#oval" fill="#B8401F" transform="rotate(50) scale(.7)"/></g></g>
+</svg>

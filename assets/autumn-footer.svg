@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Thanks for stopping by — have a cozy autumn">
+  <defs>
+    <symbol id="maple" overflow="visible">
+      <path d="M0,-22 L4,-14 L8,-16 L6,-7 L15,-11 L13,-6 L21,-5 L16,1 L18,4 L10,4 L13,10 L6,8 L2,12 L1,12 L1,22 L-1,22 L-1,12 L-2,12 L-6,8 L-13,10 L-10,4 L-18,4 L-16,1 L-21,-5 L-13,-6 L-15,-11 L-6,-7 L-8,-16 L-4,-14 Z"/>
+      <path d="M0,14 L0,-17 M0,4 L16,-4 M0,4 L-16,-4 M0,9 L10,6 M0,9 L-10,6" fill="none" stroke="#000" stroke-opacity=".22" stroke-width="1.2" stroke-linecap="round"/>
+    </symbol>
+    <symbol id="oval" overflow="visible">
+      <path d="M0,-18 C11,-9 11,8 0,18 C-11,8 -11,-9 0,-18 Z"/>
+      <path d="M0,20 L0,-15 M0,0 L6,-6 M0,0 L-6,-6 M0,8 L6,2 M0,8 L-6,2" fill="none" stroke="#000" stroke-opacity=".22" stroke-width="1.2" stroke-linecap="round"/>
+    </symbol>
+    <clipPath id="c"><rect width="1200" height="170"/></clipPath>
+    <style>
+    .t { font: italic 600 26px Georgia, 'Palatino Linotype', serif; fill: #D9622B; }
+    .s { font: 500 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #C27A45; letter-spacing: 3px; }
+    .fall  { animation: fall linear infinite; }
+    .sway  { animation: sway ease-in-out infinite alternate; }
+    .spin  { animation: spin linear infinite; }
+    @keyframes sway { from { transform: translateX(-28px); } to { transform: translateX(28px); } }
+    @keyframes spin {
+      0%   { transform: rotate(0deg)   scaleX(1); }
+      50%  { transform: rotate(180deg) scaleX(-.45); }
+      100% { transform: rotate(360deg) scaleX(1); }
+    }
+    @keyframes fall { from { transform: translateY(-40px); } to { transform: translateY(150px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+  </defs>
+  <g clip-path="url(#c)">
+    <g transform="translate(762,0)" opacity="0.75"><g class="fall" style="animation-duration:7.1s;animation-delay:-2.0s"><g class="sway" style="animation-duration:2.9s;animation-delay:-1.5s"><g transform="scale(0.64)"><use href="#maple" class="spin" fill="#F2A541" style="animation-duration:7.7s;animation-direction:normal"/></g></g></g></g>
+    <g transform="translate(51,0)" opacity="0.87"><g class="fall" style="animation-duration:8.0s;animation-delay:-5.2s"><g class="sway" style="animation-duration:3.6s;animation-delay:-1.2s"><g transform="scale(0.72)"><use href="#maple" class="spin" fill="#C0392B" style="animation-duration:5.1s;animation-direction:reverse"/></g></g></g></g>
+    <g transform="translate(200,0)" opacity="0.83"><g class="fall" style="animation-duration:11.8s;animation-delay:-4.0s"><g class="sway" style="animation-duration:2.7s;animation-delay:-2.6s"><g transform="scale(0.64)"><use href="#oval" class="spin" fill="#E3B23C" style="animation-duration:4.5s;animation-direction:reverse"/></g></g></g></g>
+    <g transform="translate(459,0)" opacity="0.89"><g class="fall" style="animation-duration:9.8s;animation-delay:-8.1s"><g class="sway" style="animation-duration:3.7s;animation-delay:-3.7s"><g transform="scale(0.68)"><use href="#maple" class="spin" fill="#D98E04" style="animation-duration:8.3s;animation-direction:normal"/></g></g></g></g>
+    <g transform="translate(1012,0)" opacity="0.88"><g class="fall" style="animation-duration:11.3s;animation-delay:-4.3s"><g class="sway" style="animation-duration:3.4s;animation-delay:-2.3s"><g transform="scale(0.55)"><use href="#maple" class="spin" fill="#B5451B" style="animation-duration:8.2s;animation-direction:normal"/></g></g></g></g>
+    <g transform="translate(103,0)" opacity="0.87"><g class="fall" style="animation-duration:10.2s;animation-delay:-5.4s"><g class="sway" style="animation-duration:3.0s;animation-delay:-2.5s"><g transform="scale(0.80)"><use href="#maple" class="spin" fill="#D98E04" style="animation-duration:6.3s;animation-direction:reverse"/></g></g></g></g>
+    <g transform="translate(920,0)" opacity="0.75"><g class="fall" style="animation-duration:8.1s;animation-delay:-0.3s"><g class="sway" style="animation-duration:3.1s;animation-delay:-1.6s"><g transform="scale(0.77)"><use href="#maple" class="spin" fill="#F5793A" style="animation-duration:5.3s;animation-direction:normal"/></g></g></g></g>
+    <g transform="translate(1046,0)" opacity="0.79"><g class="fall" style="animation-duration:10.2s;animation-delay:-1.5s"><g class="sway" style="animation-duration:2.8s;animation-delay:-2.8s"><g transform="scale(0.70)"><use href="#maple" class="spin" fill="#A63A1E" style="animation-duration:7.7s;animation-direction:reverse"/></g></g></g></g>
+    <g transform="translate(180,0)" opacity="0.80"><g class="fall" style="animation-duration:9.5s;animation-delay:-7.2s"><g class="sway" style="animation-duration:4.2s;animation-delay:-2.5s"><g transform="scale(0.72)"><use href="#maple" class="spin" fill="#F2A541" style="animation-duration:4.8s;animation-direction:normal"/></g></g></g></g>
+    <g transform="translate(563,0)" opacity="0.89"><g class="fall" style="animation-duration:8.3s;animation-delay:-4.6s"><g class="sway" style="animation-duration:4.4s;animation-delay:-1.5s"><g transform="scale(0.67)"><use href="#maple" class="spin" fill="#B5451B" style="animation-duration:7.4s;animation-direction:normal"/></g></g></g></g>
+    <g transform="translate(360,0)" opacity="0.91"><g class="fall" style="animation-duration:7.8s;animation-delay:-0.0s"><g class="sway" style="animation-duration:3.9s;animation-delay:-2.0s"><g transform="scale(0.60)"><use href="#maple" class="spin" fill="#B5451B" style="animation-duration:7.6s;animation-direction:normal"/></g></g></g></g>
+    <g transform="translate(251,0)" opacity="0.93"><g class="fall" style="animation-duration:8.9s;animation-delay:-1.4s"><g class="sway" style="animation-duration:4.4s;animation-delay:-3.9s"><g transform="scale(0.64)"><use href="#maple" class="spin" fill="#F2A541" style="animation-duration:8.6s;animation-direction:normal"/></g></g></g></g>
+    <text class="t" x="600" y="52" text-anchor="middle">Thanks for stopping by — have a cozy autumn</text>
+    <text class="s" x="600" y="80" text-anchor="middle">MADE WITH CODE, COFFEE &amp; FALLEN LEAVES</text>
+    <use href="#oval" fill="#F2A541" transform="translate(697,163) rotate(263) scale(0.66)"/>
+    <use href="#maple" fill="#C0392B" transform="translate(428,149) rotate(46) scale(0.69)"/>
+    <use href="#maple" fill="#D98E04" transform="translate(313,161) rotate(334) scale(0.66)"/>
+    <use href="#oval" fill="#A63A1E" transform="translate(645,146) rotate(358) scale(0.59)"/>
+    <use href="#maple" fill="#F5793A" transform="translate(455,154) rotate(8) scale(0.39)"/>
+    <use href="#maple" fill="#E8552D" transform="translate(400,155) rotate(82) scale(0.56)"/>
+    <use href="#oval" fill="#D98E04" transform="translate(978,163) rotate(194) scale(0.43)"/>
+    <use href="#maple" fill="#D98E04" transform="translate(345,154) rotate(282) scale(0.66)"/>
+    <use href="#maple" fill="#E3B23C" transform="translate(653,162) rotate(311) scale(0.50)"/>
+    <use href="#oval" fill="#E8552D" transform="translate(460,163) rotate(145) scale(0.58)"/>
+    <use href="#maple" fill="#A63A1E" transform="translate(357,160) rotate(66) scale(0.42)"/>
+    <use href="#maple" fill="#F2A541" transform="translate(987,160) rotate(18) scale(0.66)"/>
+    <use href="#oval" fill="#C0392B" transform="translate(1037,158) rotate(146) scale(0.67)"/>
+    <use href="#oval" fill="#C0392B" transform="translate(598,152) rotate(136) scale(0.65)"/>
+    <use href="#maple" fill="#E3B23C" transform="translate(780,150) rotate(56) scale(0.51)"/>
+    <use href="#maple" fill="#E8552D" transform="translate(583,157) rotate(269) scale(0.69)"/>
+    <use href="#maple" fill="#F2A541" transform="translate(885,158) rotate(306) scale(0.65)"/>
+    <use href="#oval" fill="#A63A1E" transform="translate(707,163) rotate(43) scale(0.37)"/>
+    <use href="#maple" fill="#F5793A" transform="translate(733,152) rotate(336) scale(0.57)"/>
+    <use href="#maple" fill="#A63A1E" transform="translate(490,160) rotate(47) scale(0.60)"/>
+    <use href="#maple" fill="#F2A541" transform="translate(445,147) rotate(26) scale(0.68)"/>
+    <use href="#oval" fill="#F2A541" transform="translate(399,160) rotate(317) scale(0.44)"/>
+    <use href="#oval" fill="#E8552D" transform="translate(508,146) rotate(240) scale(0.60)"/>
+    <use href="#maple" fill="#C0392B" transform="translate(699,152) rotate(95) scale(0.68)"/>
+    <use href="#maple" fill="#F5793A" transform="translate(891,162) rotate(73) scale(0.45)"/>
+    <use href="#maple" fill="#E8552D" transform="translate(358,155) rotate(33) scale(0.44)"/>
+    <use href="#oval" fill="#B5451B" transform="translate(436,164) rotate(58) scale(0.62)"/>
+    <use href="#maple" fill="#F2A541" transform="translate(686,154) rotate(27) scale(0.60)"/>
+    <use href="#maple" fill="#C0392B" transform="translate(969,159) rotate(155) scale(0.64)"/>
+    <use href="#oval" fill="#E8552D" transform="translate(266,164) rotate(324) scale(0.48)"/>
+    <use href="#oval" fill="#A63A1E" transform="translate(643,162) rotate(351) scale(0.62)"/>
+    <use href="#maple" fill="#C0392B" transform="translate(769,150) rotate(351) scale(0.67)"/>
+    <use href="#maple" fill="#A63A1E" transform="translate(777,164) rotate(289) scale(0.61)"/>
+    <use href="#maple" fill="#F2A541" transform="translate(159,159) rotate(138) scale(0.63)"/>
+    <use href="#maple" fill="#D98E04" transform="translate(852,161) rotate(80) scale(0.67)"/>
+    <use href="#maple" fill="#F2A541" transform="translate(663,149) rotate(348) scale(0.49)"/>
+    <use href="#maple" fill="#E8552D" transform="translate(540,155) rotate(42) scale(0.69)"/>
+    <use href="#oval" fill="#B5451B" transform="translate(924,153) rotate(14) scale(0.41)"/>
+    <use href="#oval" fill="#F2A541" transform="translate(426,150) rotate(139) scale(0.50)"/>
+    <use href="#oval" fill="#E8552D" transform="translate(479,152) rotate(187) scale(0.44)"/>
+    <use href="#maple" fill="#A63A1E" transform="translate(722,145) rotate(25) scale(0.61)"/>
+    <use href="#maple" fill="#F2A541" transform="translate(271,157) rotate(259) scale(0.47)"/>
+    <use href="#maple" fill="#C0392B" transform="translate(538,155) rotate(69) scale(0.49)"/>
+    <use href="#oval" fill="#C0392B" transform="translate(788,153) rotate(222) scale(0.48)"/>
+    <use href="#maple" fill="#F5793A" transform="translate(509,164) rotate(167) scale(0.45)"/>
+    <use href="#maple" fill="#C0392B" transform="translate(875,158) rotate(237) scale(0.42)"/>
+    <use href="#oval" fill="#D98E04" transform="translate(528,150) rotate(242) scale(0.38)"/>
+    <use href="#maple" fill="#D98E04" transform="translate(932,162) rotate(354) scale(0.42)"/>
+    <use href="#maple" fill="#A63A1E" transform="translate(299,159) rotate(178) scale(0.66)"/>
+    <use href="#maple" fill="#F2A541" transform="translate(347,161) rotate(280) scale(0.58)"/>
+    <use href="#maple" fill="#F2A541" transform="translate(681,149) rotate(164) scale(0.51)"/>
+    <use href="#oval" fill="#F5793A" transform="translate(1007,158) rotate(342) scale(0.58)"/>
+    <use href="#oval" fill="#E3B23C" transform="translate(846,154) rotate(323) scale(0.53)"/>
+    <use href="#maple" fill="#D98E04" transform="translate(400,152) rotate(302) scale(0.52)"/>
+    <use href="#maple" fill="#B5451B" transform="translate(532,153) rotate(84) scale(0.43)"/>
+    <use href="#maple" fill="#C0392B" transform="translate(993,161) rotate(83) scale(0.66)"/>
+    <use href="#maple" fill="#A63A1E" transform="translate(476,163) rotate(22) scale(0.49)"/>
+    <use href="#oval" fill="#E8552D" transform="translate(262,155) rotate(308) scale(0.49)"/>
+    <use href="#oval" fill="#A63A1E" transform="translate(622,164) rotate(194) scale(0.47)"/>
+    <use href="#oval" fill="#E3B23C" transform="translate(376,153) rotate(79) scale(0.63)"/>
+    <use href="#maple" fill="#C0392B" transform="translate(549,156) rotate(303) scale(0.59)"/>
+    <use href="#maple" fill="#A63A1E" transform="translate(622,141) rotate(213) scale(0.69)"/>
+    <use href="#maple" fill="#B5451B" transform="translate(550,154) rotate(136) scale(0.65)"/>
+    <use href="#oval" fill="#A63A1E" transform="translate(518,159) rotate(100) scale(0.46)"/>
+    <use href="#oval" fill="#E8552D" transform="translate(829,151) rotate(360) scale(0.51)"/>
+    <use href="#oval" fill="#E8552D" transform="translate(527,156) rotate(272) scale(0.58)"/>
+    <use href="#maple" fill="#F2A541" transform="translate(746,164) rotate(203) scale(0.40)"/>
+    <use href="#oval" fill="#C0392B" transform="translate(552,159) rotate(218) scale(0.59)"/>
+    <use href="#maple" fill="#E8552D" transform="translate(957,157) rotate(334) scale(0.41)"/>
+    <use href="#maple" fill="#D98E04" transform="translate(517,151) rotate(27) scale(0.67)"/>
+    <use href="#oval" fill="#F2A541" transform="translate(482,162) rotate(287) scale(0.62)"/>
+    <use href="#maple" fill="#F5793A" transform="translate(299,157) rotate(25) scale(0.36)"/>
+    <use href="#maple" fill="#F5793A" transform="translate(578,154) rotate(229) scale(0.52)"/>
+    <use href="#maple" fill="#B5451B" transform="translate(571,144) rotate(222) scale(0.60)"/>
+    <use href="#maple" fill="#F5793A" transform="translate(947,159) rotate(307) scale(0.64)"/>
+    <use href="#oval" fill="#D98E04" transform="translate(408,150) rotate(270) scale(0.38)"/>
+    <use href="#maple" fill="#E3B23C" transform="translate(291,160) rotate(76) scale(0.52)"/>
+    <use href="#oval" fill="#B5451B" transform="translate(455,149) rotate(200) scale(0.47)"/>
+    <use href="#maple" fill="#D98E04" transform="translate(451,159) rotate(249) scale(0.49)"/>
+    <use href="#oval" fill="#F2A541" transform="translate(584,148) rotate(106) scale(0.52)"/>
+    <use href="#maple" fill="#F5793A" transform="translate(458,151) rotate(153) scale(0.48)"/>
+    <use href="#oval" fill="#B5451B" transform="translate(697,148) rotate(110) scale(0.47)"/>
+    <use href="#oval" fill="#C0392B" transform="translate(645,156) rotate(69) scale(0.61)"/>
+    <use href="#maple" fill="#B5451B" transform="translate(965,157) rotate(353) scale(0.45)"/>
+    <use href="#oval" fill="#C0392B" transform="translate(696,156) rotate(99) scale(0.46)"/>
+    <use href="#oval" fill="#C0392B" transform="translate(433,146) rotate(230) scale(0.54)"/>
+    <use href="#maple" fill="#F5793A" transform="translate(602,164) rotate(66) scale(0.45)"/>
+    <use href="#maple" fill="#F2A541" transform="translate(493,163) rotate(144) scale(0.68)"/>
+    <use href="#maple" fill="#B5451B" transform="translate(890,163) rotate(31) scale(0.40)"/>
+    <use href="#maple" fill="#D98E04" transform="translate(745,159) rotate(279) scale(0.55)"/>
+    <use href="#maple" fill="#E8552D" transform="translate(233,161) rotate(219) scale(0.56)"/>
+    <use href="#maple" fill="#D98E04" transform="translate(943,157) rotate(95) scale(0.68)"/>
+    <use href="#maple" fill="#E3B23C" transform="translate(749,153) rotate(105) scale(0.40)"/>
+    <use href="#oval" fill="#E3B23C" transform="translate(683,159) rotate(26) scale(0.60)"/>
+    <use href="#oval" fill="#D98E04" transform="translate(619,144) rotate(153) scale(0.56)"/>
+    <use href="#oval" fill="#C0392B" transform="translate(779,154) rotate(26) scale(0.58)"/>
+    <use href="#maple" fill="#F2A541" transform="translate(699,148) rotate(169) scale(0.55)"/>
+    <use href="#maple" fill="#E3B23C" transform="translate(770,158) rotate(158) scale(0.49)"/>
+    <use href="#maple" fill="#D98E04" transform="translate(206,158) rotate(346) scale(0.56)"/>
+    <use href="#oval" fill="#B5451B" transform="translate(321,153) rotate(207) scale(0.55)"/>
+    <use href="#maple" fill="#A63A1E" transform="translate(612,151) rotate(229) scale(0.50)"/>
+    <use href="#maple" fill="#F5793A" transform="translate(458,154) rotate(116) scale(0.38)"/>
+    <use href="#oval" fill="#A63A1E" transform="translate(708,155) rotate(293) scale(0.52)"/>
+    <use href="#maple" fill="#F5793A" transform="translate(683,152) rotate(42) scale(0.51)"/>
+    <use href="#oval" fill="#E3B23C" transform="translate(665,145) rotate(149) scale(0.35)"/>
+    <use href="#oval" fill="#E3B23C" transform="translate(144,163) rotate(274) scale(0.48)"/>
+    <use href="#oval" fill="#F2A541" transform="translate(684,143) rotate(10) scale(0.50)"/>
+    <use href="#oval" fill="#B5451B" transform="translate(878,156) rotate(198) scale(0.63)"/>
+    <use href="#maple" fill="#F2A541" transform="translate(504,143) rotate(233) scale(0.67)"/>
+    <use href="#maple" fill="#B5451B" transform="translate(567,160) rotate(150) scale(0.68)"/>
+    <use href="#maple" fill="#C0392B" transform="translate(342,158) rotate(311) scale(0.40)"/>
+    <use href="#maple" fill="#B5451B" transform="translate(629,157) rotate(295) scale(0.63)"/>
+    <use href="#maple" fill="#C0392B" transform="translate(560,150) rotate(161) scale(0.70)"/>
+    <use href="#oval" fill="#A63A1E" transform="translate(790,156) rotate(164) scale(0.47)"/>
+    <use href="#maple" fill="#A63A1E" transform="translate(535,148) rotate(16) scale(0.55)"/>
+    <use href="#oval" fill="#A63A1E" transform="translate(734,149) rotate(356) scale(0.60)"/>
+    <use href="#maple" fill="#F5793A" transform="translate(688,161) rotate(313) scale(0.69)"/>
+    <use href="#maple" fill="#E3B23C" transform="translate(278,154) rotate(6) scale(0.50)"/>
+    <use href="#oval" fill="#B5451B" transform="translate(887,152) rotate(122) scale(0.38)"/>
+    <use href="#oval" fill="#A63A1E" transform="translate(966,158) rotate(343) scale(0.58)"/>
+    <use href="#oval" fill="#D98E04" transform="translate(264,159) rotate(227) scale(0.54)"/>
+    <use href="#oval" fill="#A63A1E" transform="translate(256,155) rotate(352) scale(0.70)"/>
+    <use href="#maple" fill="#E8552D" transform="translate(623,161) rotate(17) scale(0.41)"/>
+    <use href="#maple" fill="#C0392B" transform="translate(242,157) rotate(88) scale(0.45)"/>
+    <use href="#oval" fill="#A63A1E" transform="translate(304,162) rotate(223) scale(0.41)"/>
+    <use href="#maple" fill="#E3B23C" transform="translate(783,160) rotate(230) scale(0.67)"/>
+    <use href="#maple" fill="#C0392B" transform="translate(270,154) rotate(27) scale(0.51)"/>
+    <use href="#maple" fill="#A63A1E" transform="translate(686,143) rotate(249) scale(0.70)"/>
+    <use href="#maple" fill="#A63A1E" transform="translate(412,147) rotate(206) scale(0.65)"/>
+    <use href="#maple" fill="#A63A1E" transform="translate(652,150) rotate(99) scale(0.70)"/>
+    <use href="#oval" fill="#E3B23C" transform="translate(280,156) rotate(300) scale(0.37)"/>
+    <use href="#maple" fill="#F5793A" transform="translate(459,146) rotate(79) scale(0.62)"/>
+    <use href="#oval" fill="#C0392B" transform="translate(664,147) rotate(226) scale(0.62)"/>
+    <use href="#maple" fill="#E3B23C" transform="translate(762,147) rotate(12) scale(0.58)"/>
+    <use href="#maple" fill="#D98E04" transform="translate(519,144) rotate(48) scale(0.46)"/>
+    <use href="#maple" fill="#B5451B" transform="translate(692,152) rotate(299) scale(0.69)"/>
+    <use href="#oval" fill="#F5793A" transform="translate(581,152) rotate(290) scale(0.63)"/>
+    <use href="#oval" fill="#D98E04" transform="translate(1029,161) rotate(310) scale(0.38)"/>
+    <use href="#maple" fill="#A63A1E" transform="translate(496,144) rotate(5) scale(0.63)"/>
+  </g>
+</svg>
