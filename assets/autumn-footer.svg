@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Thanks for stopping by — have a cozy autumn">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Thanks for stopping by">
   <defs>
     <symbol id="maple" overflow="visible">
       <path d="M0,-22 L4,-14 L8,-16 L6,-7 L15,-11 L13,-6 L21,-5 L16,1 L18,4 L10,4 L13,10 L6,8 L2,12 L1,12 L1,22 L-1,22 L-1,12 L-2,12 L-6,8 L-13,10 L-10,4 L-18,4 L-16,1 L-21,-5 L-13,-6 L-15,-11 L-6,-7 L-8,-16 L-4,-14 Z"/>
@@ -38,8 +38,7 @@
     <g transform="translate(563,0)" opacity="0.89"><g class="fall" style="animation-duration:8.3s;animation-delay:-4.6s"><g class="sway" style="animation-duration:4.4s;animation-delay:-1.5s"><g transform="scale(0.67)"><use href="#maple" class="spin" fill="#B5451B" style="animation-duration:7.4s;animation-direction:normal"/></g></g></g></g>
     <g transform="translate(360,0)" opacity="0.91"><g class="fall" style="animation-duration:7.8s;animation-delay:-0.0s"><g class="sway" style="animation-duration:3.9s;animation-delay:-2.0s"><g transform="scale(0.60)"><use href="#maple" class="spin" fill="#B5451B" style="animation-duration:7.6s;animation-direction:normal"/></g></g></g></g>
     <g transform="translate(251,0)" opacity="0.93"><g class="fall" style="animation-duration:8.9s;animation-delay:-1.4s"><g class="sway" style="animation-duration:4.4s;animation-delay:-3.9s"><g transform="scale(0.64)"><use href="#maple" class="spin" fill="#F2A541" style="animation-duration:8.6s;animation-direction:normal"/></g></g></g></g>
-    <text class="t" x="600" y="52" text-anchor="middle">Thanks for stopping by — have a cozy autumn</text>
-    <text class="s" x="600" y="80" text-anchor="middle">MADE WITH CODE, COFFEE &amp; FALLEN LEAVES</text>
+    <text class="t" x="600" y="66" text-anchor="middle">Thanks for stopping by</text>
     <use href="#oval" fill="#F2A541" transform="translate(697,163) rotate(263) scale(0.66)"/>
     <use href="#maple" fill="#C0392B" transform="translate(428,149) rotate(46) scale(0.69)"/>
     <use href="#maple" fill="#D98E04" transform="translate(313,161) rotate(334) scale(0.66)"/>
